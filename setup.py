@@ -190,7 +190,7 @@ setup(
         'future',
         'glfw',
         'h5py',
-        'labmaze',
+        # 'labmaze',
         'lxml',
         'numpy',
         'protobuf',
